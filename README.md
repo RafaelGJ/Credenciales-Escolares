@@ -16,3 +16,4 @@ Como recomendación inserta la foto dentro de la celda de la hoja de calculo
 Las fotos los puedes almacenar en tu Drive y mandar a llmar para tener todo agrupado
 
 Dudas al 5585290813 
+...
