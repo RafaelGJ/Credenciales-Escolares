@@ -9,7 +9,7 @@ Modifica los campos necesarios e base a tus necesidades.
 
 Mas información en https://rafaelgj.org
 
-NOTA
+## NOTA
 
 Dentro del archivo en la pestaña credencial abajo del campo CURP, solo debes digitar el numero de referencia de alta del estudiante y la plantilla acomodara los datos.
 Como recomendación inserta la foto dentro de la celda de la hoja de calculo
@@ -17,3 +17,5 @@ Las fotos los puedes almacenar en tu Drive y mandar a llmar para tener todo agru
 
 Dudas al 5585290813 
 ...
+
+> Versión 2.0
